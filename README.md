@@ -44,7 +44,7 @@ npm install
 Create a new Firebase project at https://console.firebase.google.com/.
 Enable the Google authentication provider in the Firebase Authentication settings.
 
-###Create a new Firestore database and update the Firebase configuration in the application code.
+### Create a new Firestore database and update the Firebase configuration in the application code.
 
 - 4.Set up the Zego SDK:
 
@@ -69,31 +69,31 @@ npm run dev
 
 
 
-![myMeeting](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/248c5a66-6e03-4577-b8ca-8cde98e9475c)
+![myMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/248c5a66-6e03-4577-b8ca-8cde98e9475c)
 
 
 
 ### Dashboard
-![dashboard](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/51c872a7-179d-4a03-a907-5ff324af71f3)
+![dashboard](https://github.com/thesunnymallick/meetly/assets/81466855/51c872a7-179d-4a03-a907-5ff324af71f3)
 
 
 ### Create Meeting
-![createMeeting](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/9e67f477-9177-4eb5-98b1-9c8421469ea6)
+![createMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/9e67f477-9177-4eb5-98b1-9c8421469ea6)
 
 
 
 ### Light Mode
-![viewMeeting-lightMode](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/8e2251b9-66a0-4151-8838-d5bcd9da54b6)
+![viewMeeting-lightMode](https://github.com/thesunnymallick/meetly/assets/81466855/8e2251b9-66a0-4151-8838-d5bcd9da54b6)
 
 
 ### One On one Meeting
-![one-on-one-meeting](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/69f6621f-f684-4625-bc3c-849f2835c29b)
+![one-on-one-meeting](https://github.com/thesunnymallick/meetly/assets/81466855/69f6621f-f684-4625-bc3c-849f2835c29b)
 
 ### Edit Meeting
 
 
-![EditMeeting](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/cabc97ba-8c87-4660-9106-46a56eec393d)
+![EditMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/cabc97ba-8c87-4660-9106-46a56eec393d)
 
 ### Join Meeting
 
-![joinMeeting](https://github.com/thesunnymallick/Meet_Now_Testing_Purpose/assets/81466855/a75c6ef4-7ec4-4eb5-88a9-92f4d7d6364e)
+![joinMeeting](https://github.com/thesunnymallick/meetly/assets/81466855/a75c6ef4-7ec4-4eb5-88a9-92f4d7d6364e)
